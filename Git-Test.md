@@ -26,4 +26,4 @@ git status команад, вызов.блок инф. по состоян. ре
 
 git branch - выводит ветки
 
-branch - ветка
+git branch name - создание ветки
