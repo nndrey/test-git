@@ -10,6 +10,12 @@
   "author": "Nndrey",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.23"
+    "@hexlet/immutable-fs-trees": "^0.7.2",
+    "lodash": "^4.17.23",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "prettier": "^3.8.1"
   }
 }
